@@ -4,5 +4,5 @@
 
 int main(int argc, char* argv[])
 {
-  return customization(argc, argv);
+    return customization(argc, argv);
 }

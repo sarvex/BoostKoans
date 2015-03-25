@@ -7,10 +7,9 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-  boost::array<int, 10> a;
-  boost::smatch s;
+	boost::array<int, 10> a;
+	boost::smatch s;
 
-  getchar();
 	return 0;
 }
 
